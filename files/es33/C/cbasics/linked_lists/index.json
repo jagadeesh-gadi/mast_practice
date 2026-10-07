@@ -2,7 +2,7 @@
   {
     "name": "a.out",
     "type": "file",
-    "size": 16240
+    "size": 16328
   },
   {
     "name": "arrays_operations",
@@ -25,6 +25,11 @@
     "name": "reverse",
     "type": "file",
     "size": 16200
+  },
+  {
+    "name": "reverse_3node.c",
+    "type": "file",
+    "size": 1851
   },
   {
     "name": "search",

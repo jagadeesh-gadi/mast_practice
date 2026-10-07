@@ -1,5 +1,10 @@
 [
   {
+    "name": "a.out",
+    "type": "file",
+    "size": 16600
+  },
+  {
     "name": "count.c",
     "type": "file",
     "size": 451

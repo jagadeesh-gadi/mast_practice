@@ -42,7 +42,7 @@
   {
     "name": "a.out",
     "type": "file",
-    "size": 16088
+    "size": 14472
   },
   {
     "name": "alignof.c",
@@ -53,6 +53,15 @@
     "name": "amstrong.c",
     "type": "file",
     "size": 343
+  },
+  {
+    "name": "array",
+    "type": "folder"
+  },
+  {
+    "name": "binar_to_hex.c",
+    "type": "file",
+    "size": 502
   },
   {
     "name": "Bug_program.c",

@@ -21,7 +21,16 @@
     "type": "folder"
   },
   {
+    "name": "en.DM00105823.pdf",
+    "type": "file",
+    "size": 3781926
+  },
+  {
     "name": "resume",
+    "type": "folder"
+  },
+  {
+    "name": "SP",
     "type": "folder"
   },
   {

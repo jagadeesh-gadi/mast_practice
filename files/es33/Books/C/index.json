@@ -1,5 +1,9 @@
 [
   {
+    "name": ".vscode",
+    "type": "folder"
+  },
+  {
     "name": "C in Depth (2nd ed.) [Srivastava 2009-06-30].pdf ( PDFDrive ).pdf",
     "type": "file",
     "size": 24871701
@@ -22,5 +26,19 @@
   {
     "name": "cbasics",
     "type": "folder"
+  },
+  {
+    "name": "Let us c .pdf",
+    "type": "file",
+    "size": 7580198
+  },
+  {
+    "name": "new_com",
+    "type": "folder"
+  },
+  {
+    "name": "OPERATING-SYSTEMS.pdf",
+    "type": "file",
+    "size": 4838889
   }
 ]

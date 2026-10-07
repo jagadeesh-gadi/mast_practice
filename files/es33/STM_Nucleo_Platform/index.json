@@ -10,6 +10,11 @@
     "size": 3781926
   },
   {
+    "name": "datasheet_stm32L452re",
+    "type": "file",
+    "size": 18943074
+  },
+  {
     "name": "I2C_UM10204.pdf",
     "type": "file",
     "size": 750958
@@ -28,6 +33,11 @@
     "name": "pm0214-stm32-cortexm4-mcus-and-mpus-programming-manual-stmicroelectronics.pdf",
     "type": "file",
     "size": 2732268
+  },
+  {
+    "name": "schematic.pdf",
+    "type": "file",
+    "size": 1314815
   },
   {
     "name": "stm32l452re_product_specification.pdf",
