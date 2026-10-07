@@ -5,8 +5,8 @@ int main()
 {
     int arr[size], i, j, temp;
     printf("enter arry of elements :: \n");
-    for (i = 0; i < 5; i++)
-    
+    for (i = 0; i < size; i++)
+
         scanf("%d", &arr[i]);
 
     for (i = 0; i < size - 1; i++)
