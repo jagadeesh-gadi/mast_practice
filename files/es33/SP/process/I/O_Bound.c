@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include<unistd.h>
+#include <unistd.h>
 int main()
 {
     while (1)
@@ -11,5 +11,3 @@ int main()
 
     return 0;
 }
-
-
