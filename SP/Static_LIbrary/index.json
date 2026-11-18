@@ -1,0 +1,27 @@
+[
+  {
+    "name": "main.c",
+    "type": "file",
+    "size": 198
+  },
+  {
+    "name": "math",
+    "type": "file",
+    "size": 16056
+  },
+  {
+    "name": "my_math.c",
+    "type": "file",
+    "size": 116
+  },
+  {
+    "name": "my_math.o",
+    "type": "file",
+    "size": 1344
+  },
+  {
+    "name": "some",
+    "type": "file",
+    "size": 16056
+  }
+]

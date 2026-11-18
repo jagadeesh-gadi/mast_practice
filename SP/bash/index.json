@@ -1,0 +1,57 @@
+[
+  {
+    "name": "a.out",
+    "type": "file",
+    "size": 16056
+  },
+  {
+    "name": "greater.sh",
+    "type": "file",
+    "size": 194
+  },
+  {
+    "name": "hello.sh",
+    "type": "file",
+    "size": 167
+  },
+  {
+    "name": "loop.sh",
+    "type": "file",
+    "size": 281
+  },
+  {
+    "name": "n_number.c",
+    "type": "file",
+    "size": 13
+  },
+  {
+    "name": "n_number.sh",
+    "type": "file",
+    "size": 125
+  },
+  {
+    "name": "reverse.sh",
+    "type": "file",
+    "size": 154
+  },
+  {
+    "name": "senor",
+    "type": "file",
+    "size": 15960
+  },
+  {
+    "name": "sensor",
+    "type": "file",
+    "size": 15960
+  },
+  {
+    "name": "sensor.c",
+    "type": "file",
+    "size": 159
+  },
+  {
+    "name": "test.sh",
+    "type": "file",
+    "size": 319
+  }
+]
