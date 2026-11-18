@@ -1,3 +1,0 @@
-verify_stack_frames.c:5:6:sensor	432	static
-verify_stack_frames.c:13:6:process	832	static
-verify_stack_frames.c:24:5:main	16	static
