@@ -1,0 +1,27 @@
+[
+  {
+    "name": "a.out",
+    "type": "file",
+    "size": 16312
+  },
+  {
+    "name": "arrays_stack.c",
+    "type": "file",
+    "size": 1305
+  },
+  {
+    "name": "expresion.c",
+    "type": "file",
+    "size": 1216
+  },
+  {
+    "name": "linked_list_stack.c",
+    "type": "file",
+    "size": 2829
+  },
+  {
+    "name": "stack_arrays_strings.c",
+    "type": "file",
+    "size": 672
+  }
+]
